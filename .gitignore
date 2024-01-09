@@ -1,0 +1,8 @@
+*.d
+*.o
+*.orig
+*.bak
+*.c.bak
+build/
+Debug/
+Release/
